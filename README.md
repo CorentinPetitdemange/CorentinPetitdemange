@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Corentin Petitdemange
 - 👀 I'm interested in new technologies and learning cool stuff.
-- 👷 I'm automatician, I work on OT and automated systems for the manufactoring industry.
+- 👷 I'm automatician, I work on OT for the manufactoring industry.
 - 🌱 I’m currently learning python, Backend  : framwork django, flask, Frontend : angular, react..  for develop my competence for create new type of application.  
 - 👨‍💻 You can see some of the projects I have done myself on my website here : (I create the website now... just wait bro)
 - 📫 How to reach me : https://www.linkedin.com/in/corentin-petitdemange-096ba5150/
