@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Corentin Petitdemange
 - 👀 I'm interested in new technologies and learning cool stuff.
-- 👷 I'm CEO 
+- 👷 I'm Entreprise Architect
 - 📫 How to reach me : https://www.linkedin.com/in/corentin-petitdemange-096ba5150/
